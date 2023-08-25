@@ -2,3 +2,7 @@
  CS3704 SE Basics Workshop
  Akshath Majumder
  Hello World!
+Standup partners:
+Prahaara Mali (prahaara08)
+Achintya Garg (achintya)
+Manas Kethireddy (manask101)
