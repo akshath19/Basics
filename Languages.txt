@@ -1,0 +1,8 @@
+What is your favorite programming language? Why?
+
+Python is my favorite programming language. This is because of the readability and simplicity. Python's syntax is designed to be clear and readable, resembling natural language more than other programming languages. This makes it easier to write and understand code, especially for beginners which is what I was when I started college.
+
+- Is your favorite language the one you are also most experienced with? If not, which language are you most experienced with?
+
+Yes, python is the language I have the most experience with.
+
